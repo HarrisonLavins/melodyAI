@@ -1,4 +1,5 @@
- notebooks/.ipynb_checkpoints/*.ipynb
+notebooks/.ipynb_checkpoints/*.ipynb
 .DS_Store
+notebooks/.DS_Store
 notebooks/.ipynb_checkpoints/bach_feature_extraction-checkpoint.ipynb
 notebooks/.ipynb_checkpoints/Network-checkpoint.ipynb
