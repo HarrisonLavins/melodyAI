@@ -1,8 +1,10 @@
-notebooks/.ipynb_checkpoints/*.ipynb
+
+code/.ipynb_checkpoints/*.ipynb
 .DS_Store
-notebooks/.DS_Store
-notebooks/.ipynb_checkpoints/bach_feature_extraction-checkpoint.ipynb
-notebooks/.ipynb_checkpoints/Network-checkpoint.ipynb
+code/__pycache__/
+code/.DS_Store
+code/.ipynb_checkpoints/bach_feature_extraction-checkpoint.ipynb
+code/.ipynb_checkpoints/Network-checkpoint.ipynb
 *.h5
 outputs/compositions/*
 tensorboard_logs/*
