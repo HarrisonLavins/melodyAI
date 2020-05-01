@@ -1,10 +1,9 @@
-
-code/.ipynb_checkpoints/*.ipynb
+code/training_checkpoints/*
+/.ipynb_checkpoints/*.ipynb
 .DS_Store
 code/__pycache__/
 code/.DS_Store
-code/.ipynb_checkpoints/bach_feature_extraction-checkpoint.ipynb
-code/.ipynb_checkpoints/Network-checkpoint.ipynb
+code/.ipynb_checkpoints/*
 *.h5
 outputs/compositions/*
 tensorboard_logs/*
