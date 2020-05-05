@@ -7,3 +7,7 @@ code/.ipynb_checkpoints/*
 *.h5
 outputs/compositions/*
 tensorboard_logs/*
+notebooks/.ipynb_checkpoints/bach_feature_extraction-checkpoint.ipynb
+notebooks/.ipynb_checkpoints/bach_feature_visualization-checkpoint.ipynb
+notebooks/.ipynb_checkpoints/dataset_transposition-checkpoint.ipynb
+notebooks/.ipynb_checkpoints/Network-checkpoint.ipynb
